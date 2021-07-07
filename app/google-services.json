@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "987299760137",
+    "project_id": "taskmanagercar",
+    "storage_bucket": "taskmanagercar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987299760137:android:30ffff68a234730d7450d8",
+        "android_client_info": {
+          "package_name": "com.lsv.taskmanagercar.carlos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987299760137-8nnkfr326tcvo5klgcsqfabkdl7dvfbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lsv.taskmanagercar.carlos",
+            "certificate_hash": "29db438b93e0eafb205a9ae367e33735b8585ce6"
+          }
+        },
+        {
+          "client_id": "987299760137-cgreq1tbhp8i8728te1oriskhseddhge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfwv5c45p6kzONou49aZ70QCXQUUpLrU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987299760137-cgreq1tbhp8i8728te1oriskhseddhge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
